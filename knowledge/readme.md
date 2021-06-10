@@ -1,6 +1,7 @@
 # 数据科学知识回顾
 ## 统计学
 [T检验&Z检验&AB test一网打尽！](https://zhuanlan.zhihu.com/p/283303098)<br>
+[A/B测试(A/B试验)的概述、原理、公式推导、Python实现和应用](https://zhuanlan.zhihu.com/p/346602966)
 ## 基础深度学习模型
 [CNN卷积神经网络原理讲解+图片识别应用（附源码）](https://blog.csdn.net/kun1280437633/article/details/80817129)<br>
 ## 自然语言处理 NLP
