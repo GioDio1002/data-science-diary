@@ -1,6 +1,8 @@
 # 数据科学知识回顾
-## 基础模型
-[CNN卷积神经网络原理讲解+图片识别应用（附源码）](https://blog.csdn.net/kun1280437633/article/details/80817129)
+## 统计学
+[T检验&Z检验&AB test一网打尽！](https://zhuanlan.zhihu.com/p/283303098)<br>
+## 基础深度学习模型
+[CNN卷积神经网络原理讲解+图片识别应用（附源码）](https://blog.csdn.net/kun1280437633/article/details/80817129)<br>
 ## 自然语言处理 NLP
 [自然语言理解（NLU）是啥？](https://zhuanlan.zhihu.com/p/143221527)<br>
 [cbow 与 skip-gram的比较](https://zhuanlan.zhihu.com/p/37477611)<br>
