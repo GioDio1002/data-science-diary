@@ -1,4 +1,6 @@
 # 数据科学常用工具合集
+## WordCloud
+[用Python制作酷炫词云图，原来这么简单!_Python学习Q群696455390-CSDN博客](https://blog.csdn.net/weixin_46089319/article/details/104009532)
 ## MarkDown
   [Markdown 模板演示]( https://markdown-it.github.io/
 )
