@@ -2,12 +2,13 @@
 ## 统计学
 [T检验&Z检验&AB test一网打尽！](https://zhuanlan.zhihu.com/p/283303098)<br>
 [A/B测试(A/B试验)的概述、原理、公式推导、Python实现和应用](https://zhuanlan.zhihu.com/p/346602966)
-## 基础深度学习模型
+## 基础机器学习模型
 [CNN卷积神经网络原理讲解+图片识别应用（附源码）](https://blog.csdn.net/kun1280437633/article/details/80817129)<br>
 [LSTM原理及实现](https://blog.csdn.net/weixin_44162104/article/details/88660003)<br>
 [时间序列预测——ARIMA（差分自回归移动平均模型）（1））](https://blog.csdn.net/qifeidemumu/article/details/88761964)<br>
 [机器学习笔记（九）——数据降维：主成分分析法（PCA）](https://blog.csdn.net/weixin_43312354/article/details/105653308)<br>
 [最优化方法：L1和L2正则化regularization](https://blog.csdn.net/pipisorry/article/details/52108040)<br>
+[【机器学习】决策树（中）——Random Forest、Adaboost、GBDT （非常详细）](https://zhuanlan.zhihu.com/p/86263786)<br>
 ## 自然语言处理 NLP
 [自然语言理解（NLU）是啥？](https://zhuanlan.zhihu.com/p/143221527)<br>
 [cbow 与 skip-gram的比较](https://zhuanlan.zhihu.com/p/37477611)<br>
