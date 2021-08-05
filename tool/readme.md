@@ -9,6 +9,7 @@
 ## linux
 [centos中安装python3.7](https://www.cnblogs.com/xiaonq/p/11145846.html)<br>
 [pip3 国内源](https://www.cnblogs.com/young233/p/12131058.html)
+[python之（6）如何把python项目部署到linux服务器上](https://www.cnblogs.com/huanghanyu/p/12921842.html)
 
 ## 机器学习应用部署
 [Streamlit](https://streamlit.io/)<br>
