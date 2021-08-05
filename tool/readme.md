@@ -4,6 +4,8 @@
 ## MarkDown
   [Markdown 模板演示]( https://markdown-it.github.io/
 )
+## linux
+[centos中安装python3.7](https://www.cnblogs.com/xiaonq/p/11145846.html)
 ## 机器学习应用部署
 [Streamlit](https://streamlit.io/)<br>
 [Streamlit 已经强大到如此地步，可以完全代替flask吗？](https://zhuanlan.zhihu.com/p/270590933)
